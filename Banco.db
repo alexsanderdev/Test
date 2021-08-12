@@ -1,1 +1,1 @@
-select * from tb_Clients
+select ID from tb_Clients
